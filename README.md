@@ -1,9 +1,11 @@
 # q2a-nonebot2-qqpusher
 基于 Nonebot2 的 Question2Answer 新问题 QQ 推送机器人 / A Question2Answer new question QQ pusher based on Nonebot2.
 
+![image.png](https://attachment.mcbbs.net/public/resource/8b198dc7-a0f8-4258-b9b1-b198204e64da.png)
+
 ## 使用
 
-配置运行环境。推荐使用 Python 3.10 作为 Nonebot2 的运行环境。
+推荐使用 Python 3.10 作为 Nonebot2 的运行环境。
 
 1. 安装 Python 3.10。
 
