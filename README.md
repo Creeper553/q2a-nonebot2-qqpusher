@@ -15,9 +15,9 @@
 
    或者通过 `pip install nonebot2` 手动安装。详见 [Nonebot2 官网](https://nb2.baka.icu/docs/)。
 
-3. 安装插件运行所需要的依赖。RSS 解析使用了 feedparser，定时检查站点使用了 APScheduler。
+3. 安装插件运行所需要的依赖。需要使用 onebot v11 的适配器，RSS 解析使用了 feedparser，定时检查站点使用了 APScheduler。
 
-   使用以下指令安装：
+   适配器可通过输入 nb 指令后按步骤安装，依赖可使用以下指令安装：
 
    `nb plugin install nonebot-plugin-apscheduler`
 
